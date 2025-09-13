@@ -1,0 +1,73 @@
+Dr:0 RC:1 Result:0.965819 TotalRewires:1609045
+
+Dr:0.01 RC:1 Result:0.965259 TotalRewires:1755495
+
+Dr:0.02 RC:1 Result:0.964817 TotalRewires:1812718
+
+Dr:0.03 RC:1 Result:0.964151 TotalRewires:1911800
+
+Dr:0.04 RC:1 Result:0.963616 TotalRewires:1955900
+
+Dr:0.05 RC:1 Result:0.962786 TotalRewires:2038513
+
+Dr:0.06 RC:1 Result:0.961735 TotalRewires:2146367
+
+Dr:0.07 RC:1 Result:0.959134 TotalRewires:2301288
+
+Dr:0.08 RC:1 Result:0.956986 TotalRewires:2463476
+
+Dr:0.09 RC:1 Result:0.956375 TotalRewires:2622250
+
+Dr:0.1 RC:1 Result:0.951278 TotalRewires:2841530
+
+Dr:0.11 RC:1 Result:0.935417 TotalRewires:3050841
+
+Dr:0.12 RC:1 Result:0.920779 TotalRewires:3355209
+
+Dr:0.13 RC:1 Result:0.916619 TotalRewires:3712405
+
+Dr:0.14 RC:1 Result:0.89989 TotalRewires:3975804
+
+Dr:0.15 RC:1 Result:0.900041 TotalRewires:4339096
+
+Dr:0.16 RC:1 Result:0.884985 TotalRewires:4811900
+
+Dr:0.17 RC:1 Result:0.879945 TotalRewires:5254293
+
+Dr:0.18 RC:1 Result:0.870212 TotalRewires:5859650
+Dr:0.18 RC:1 Result:0.89500 TotalRewires:5859650
+Dr:0.18 RC:1 Result:0.87179 TotalRewires:5859650
+
+Dr:0.19 RC:1 Result:0.86373 TotalRewires:6413910
+
+Dr:0.2 RC:1 Result:0.850998 TotalRewires:7016999
+
+Dr:0.21 RC:1 Result:0.842271 TotalRewires:7702668
+
+Dr:0.22 RC:1 Result:0.831663 TotalRewires:8376128
+
+Dr:0.23 RC:1 Result:0.818954 TotalRewires:9153889
+
+Dr:0.24 RC:1 Result:0.808418 TotalRewires:9904127
+
+Dr:0.25 RC:1 Result:0.792135 TotalRewires:10677149
+
+Dr:0.26 RC:1 Result:0.781057 TotalRewires:11489769
+
+Dr:0.27 RC:1 Result:0.767366 TotalRewires:12302313
+
+Dr:0.28 RC:1 Result:0.755991 TotalRewires:13053740
+
+Dr:0.29 RC:1 Result:0.743199 TotalRewires:13753534
+
+Dr:0.3 RC:1 Result:0.732144 TotalRewires:14337695
+
+Dr:0.31 RC:1 Result:0.717182 TotalRewires:14978590
+
+Dr:0.32 RC:1 Result:0.708685 TotalRewires:15612306
+
+Dr:0.33 RC:1 Result:0.698676 TotalRewires:16179511
+
+Dr:0.34 RC:1 Result:0.688785 TotalRewires:16719901
+
+Dr:0.35 RC:1 Result:0.676229 TotalRewires:17275136
